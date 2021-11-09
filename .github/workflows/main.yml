@@ -38,4 +38,4 @@ jobs:
       - name: List current directory contents
         run: ls -la
       - name: run script.sh
-        run: ./script.sh
+        run: sh script.sh
